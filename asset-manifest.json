@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0e90995a.css",
+    "main.js": "./static/js/main.d5df4a82.js",
+    "static/media/category-tablets.png": "./static/media/category-tablets.51782e18205a1ca01ce8.png",
+    "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
+    "static/media/banner-phones.png": "./static/media/banner-phones.f509ad3c8ed651749cb5.png",
+    "static/media/banner-accessories.png": "./static/media/banner-accessories.6a3884f3f1091702f8ed.png",
+    "static/media/category-accessories.png": "./static/media/category-accessories.e47d6d6df68a6548e82b.png",
+    "static/media/Logo.svg": "./static/media/Logo.91bc467fb200300712ec90c14d46e6c1.svg",
+    "static/media/LogoBlack.svg": "./static/media/LogoBlack.9f7c63eb15f4063cc86c868a707e83ad.svg",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/category-phones.webp": "./static/media/category-phones.7dfccacbf08890845843.webp",
+    "static/media/Cart.svg": "./static/media/Cart.08d4be14e784e84958c2cd73a44618f1.svg",
+    "static/media/Favourites.svg": "./static/media/Favourites.3639e3e49a14016452c82da190890f37.svg",
+    "static/media/Shopping bag (Cart).svg": "./static/media/Shopping bag (Cart).f5242b502e031f9d34cb.svg",
+    "static/media/Favourites (Heart Like).svg": "./static/media/Favourites (Heart Like).b8f4c87a5923d0536c43.svg",
+    "static/media/Home.svg": "./static/media/Home.9a24a70540404ccecd05fd9f900ddeeb.svg",
+    "static/media/Favourites Filled.svg": "./static/media/Favourites Filled.197c85893972fd26ee86af2ee3df0aca.svg",
+    "static/media/Close.svg": "./static/media/Close.6e7f15f7413e962f7549.svg",
+    "static/media/CloseBlack.svg": "./static/media/CloseBlack.0594ac0ef702db8fbc79.svg",
+    "static/media/Menu.svg": "./static/media/Menu.73ddde2c093f9fb313b9.svg",
+    "static/media/ArrowLeft.svg": "./static/media/ArrowLeft.70a94334a0edfe4f53dbb49d7e703648.svg",
+    "static/media/Chevron (Arrow Right).svg": "./static/media/Chevron (Arrow Right).e028d3889646e0b5e56cf54f47bb701a.svg",
+    "index.html": "./index.html",
+    "main.0e90995a.css.map": "./static/css/main.0e90995a.css.map",
+    "main.d5df4a82.js.map": "./static/js/main.d5df4a82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e90995a.css",
+    "static/js/main.d5df4a82.js"
+  ]
+}
